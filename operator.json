@@ -15,7 +15,7 @@
     "id": "F5 Load Balancer",
     "name": "F5-Load-Balancer",
     "description": "Deploy and F5 Load Balancer on Wind River Studio Cloud",
-    "html_url": "https://www.f5.com",
+    "html_url": "https://www.f5.com/products/global-server-load-balancing-gslb",
     "zip_url": "http://128.224.206.88:30180/marketplace/blueprints/drupal.zip",
     "readme_url": "https://www.f5.com/products/global-server-load-balancing-gslb",
     "main_blueprint": "blueprint.yaml",
